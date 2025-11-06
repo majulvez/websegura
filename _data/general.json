@@ -660,6 +660,11 @@
     {
       "url": "firmaelectronica.gob.es",
       "name": "Portal de Administración Electrónica (Autofirma), Ministerio de Asuntos Económicos y Transformación Digital"
-    }
+    },
+    {
+      "url": "www.cis.es",
+      "name": "Centro de Investigaciones Sociológicas - CIS",
+      "twitter": "CIS_Institucion"
+    },
   ]
 }
